@@ -4,7 +4,7 @@ import sys
 import emoji
 from tqdm import tqdm
 # we used gemini api 
-API_KEY = "AIzaSyDK42MzCsQXfPD5i_ts_hY25TiAUmO4CUs"
+API_KEY = ""
 user_question = ""
 checking_question = ""
 url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=" + API_KEY
