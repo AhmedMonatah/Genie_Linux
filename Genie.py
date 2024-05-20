@@ -24,9 +24,7 @@ data = {
 data2 = {
     "contents": [
         {
-            "parts": [
-                {"text": checking_question}
-            ]
+            "parts": [{"text": checking_question}]
         }
     ]
 }
